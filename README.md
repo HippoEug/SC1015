@@ -1,1 +1,1 @@
-# SC1015
+# SC1015 Introduction to Data Science & Artificial Intelligence
